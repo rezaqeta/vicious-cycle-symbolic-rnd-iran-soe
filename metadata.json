@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Qualitative Data Network Visualizer",
+  "description": "An interactive tool to explore connections in qualitative research data using a force-directed graph. It visualizes hierarchical data from quotes to aggregated dimensions.",
+  "requestFramePermissions": []
+}
